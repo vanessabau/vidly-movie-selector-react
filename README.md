@@ -1,3 +1,7 @@
+# Vidly FE movie list, search, and filtering application
+
+# ![vidly screenshot](https://raw.githubusercontent.com/vanessabau/vidly-movie-selector-react/main/public/Screen%20Shot%202022-09-14%20at%2012.31.46%20PM.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
